@@ -1,5 +1,6 @@
 {
   "name": "frontend-core",
+  "version": "0.0.1",
   "homepage": "https://github.com/CreditShop/lendingplatform",
   "authors": [
     "Antoine Chagnon Larose <alarose@creditshop.com>"
